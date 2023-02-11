@@ -1,0 +1,12 @@
+.img{
+display: block;
+max-width: 100%;
+height: auto;
+margin: auto;
+}
+.dh{
+    text-align: initial;
+font-style: oblique;
+background-color: cornsilk;
+color: maroon;
+}
